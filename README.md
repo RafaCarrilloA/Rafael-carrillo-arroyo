@@ -39,10 +39,10 @@ My primary focus is bridging the gap between raw multimodal signals (vision, lan
 
 ### 🚀 Key Projects
 
-#### 🩺 [Multimodal Vision-Language Model for Radiology](https://github.com/rafael-carrillo-arroyo)
+#### 🩺 [Multimodal Vision-Language Model for Radiology](https://github.com/rafael-carrillo-arroyo/TFG-Vision-Language-Clinical-Reports)
 > An end-to-end VLM combining **DenseNet121** and **BioGPT + LoRA** to process chest X-rays, generate structured clinical reports, and provide Grad-CAM heatmaps for explainable medical decisions.
 
-#### 🦴 [3D Vertebrae Segmentation & Reconstruction](https://github.com/rafael-carrillo-arroyo)
+#### 🦴 [3D Vertebrae Segmentation & Reconstruction](https://github.com/rafael-carrillo-arroyo/medical-imaging-vertebrae-segmentation)
 > High-performance pipeline for volumetric 3D CT scan semantic segmentation comparing **3D ResUNet** vs. **Swin UNETR** using **MONAI** on the VerSe dataset, including automated 3D mesh reconstruction.
 
 ---
