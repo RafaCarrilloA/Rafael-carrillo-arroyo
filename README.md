@@ -39,19 +39,18 @@ My primary focus is bridging the gap between raw multimodal signals (vision, lan
 
 ### 🚀 Key Projects
 
-#### 🩺 [Multimodal Vision-Language Model for Radiology](https://github.com/rafael-carrillo-arroyo/TFG-Vision-Language-Clinical-Reports)
+#### 🩺 [Multimodal Vision-Language Model for Radiology](https://github.com/RafaCarrilloA/TFG-Vision-Language-Clinical-Reports)
 > An end-to-end VLM combining **DenseNet121** and **BioGPT + LoRA** to process chest X-rays, generate structured clinical reports, and provide Grad-CAM heatmaps for explainable medical decisions.
 
-#### 🦴 [3D Vertebrae Segmentation & Reconstruction](https://github.com/rafael-carrillo-arroyo/medical-imaging-vertebrae-segmentation)
+#### 🦴 [3D Vertebrae Segmentation & Reconstruction](https://github.com/RafaCarrilloA/medical-imaging-vertebrae-segmentation)
 > High-performance pipeline for volumetric 3D CT scan semantic segmentation comparing **3D ResUNet** vs. **Swin UNETR** using **MONAI** on the VerSe dataset, including automated 3D mesh reconstruction.
-
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael-carrillo-arroyo&show_icons=true&theme=radial&hide_border=true" alt="Rafael's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-carrillo-arroyo&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaCarrilloA&show_icons=true&theme=radial&hide_border=true" alt="Rafael's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarrilloA&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
