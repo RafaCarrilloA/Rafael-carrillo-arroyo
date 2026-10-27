@@ -49,8 +49,8 @@ My primary focus is bridging the gap between raw multimodal signals (vision, lan
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaCarrilloA&show_icons=true&theme=radial&hide_border=true" alt="Rafael's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCarrilloA&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=RafaCarrilloA&show_icons=true&theme=tokyonight&hide_border=true" alt="Rafael's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=RafaCarrilloA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
